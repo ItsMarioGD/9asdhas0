@@ -1,0 +1,5 @@
+flask
+mysql-connector-python
+google-generativeai
+fpdf
+python-dotenv
